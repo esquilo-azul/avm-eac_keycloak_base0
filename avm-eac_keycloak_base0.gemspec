@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.required_ruby_version = '>= 2.7'
 
   s.add_dependency 'avm-eac_webapp_base0', '~> 0.21', '>= 0.21.2'
-  s.add_dependency 'eac_rest', '~> 0.11'
+  s.add_dependency 'eac_rest', '~> 0.12'
   s.add_development_dependency 'eac_ruby_gem_support', '~> 0.9'
   s.add_dependency 'eac_ruby_utils', '~> 0.120'
   s.add_dependency 'keycloak-admin', '~> 1.1'
